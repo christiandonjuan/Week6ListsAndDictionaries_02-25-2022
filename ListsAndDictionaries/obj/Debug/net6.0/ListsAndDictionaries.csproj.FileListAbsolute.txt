@@ -1,0 +1,15 @@
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ListsAndDictionaries.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ListsAndDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ListsAndDictionaries.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ListsAndDictionaries.AssemblyInfo.cs
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ListsAndDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\bin\Debug\net6.0\ListsAndDictionaries.exe
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\bin\Debug\net6.0\ListsAndDictionaries.deps.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\bin\Debug\net6.0\ListsAndDictionaries.runtimeconfig.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\bin\Debug\net6.0\ListsAndDictionaries.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\bin\Debug\net6.0\ref\ListsAndDictionaries.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\bin\Debug\net6.0\ListsAndDictionaries.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ListsAndDictionaries.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ref\ListsAndDictionaries.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ListsAndDictionaries.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\ListsAndDictionaries\obj\Debug\net6.0\ListsAndDictionaries.genruntimeconfig.cache
